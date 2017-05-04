@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4435714d-0b29-4282-bc7f-505cd8f57952" name="Ygritte" url="http://localhost:8001">
+        <fileTransfer host="ygritte.uk" port="22" rootFolder="/home/keir05/classes/dyn_gen_content/assessment/F6C2 35" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
